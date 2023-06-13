@@ -55,3 +55,13 @@
   - reverse(): Reverses the order of the nodes in the list.
   - toArrayForward(): Converts the doubly linked list to an array in forward order.
   - toArrayBackward(): Converts the doubly linked list to an array in backward order.
+
+### Stack 
+- implemented in Array, Linked List and Object
+- operations:
+  - push(item): Adds an item to the top of the stack.
+  - pop(): Removes and returns the item at the top of the stack.
+  - peek(): Returns the item at the top of the stack without removing it.
+  - isEmpty(): Checks if the stack is empty or not.
+  - size(): Returns the number of items currently in the stack.
+  - clear(): Removes all items from the stack, making it empty.
