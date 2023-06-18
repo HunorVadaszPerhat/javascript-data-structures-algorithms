@@ -38,7 +38,7 @@ yArray[0] = 8;
 console.log('xArray: ', xArray);
 console.log('yArray: ', yArray);
 
-// impura functions mutate the data 
+// impure functions mutate the data 
 const addToScoreHistory = (array, score) => {
 	array.push(score);
   return array;
